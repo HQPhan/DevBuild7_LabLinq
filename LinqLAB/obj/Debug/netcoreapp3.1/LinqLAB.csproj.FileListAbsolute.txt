@@ -1,0 +1,14 @@
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LInq\LABLinq\LinqLAB\bin\Debug\netcoreapp3.1\LinqLAB.exe
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LInq\LABLinq\LinqLAB\bin\Debug\netcoreapp3.1\LinqLAB.deps.json
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LInq\LABLinq\LinqLAB\bin\Debug\netcoreapp3.1\LinqLAB.runtimeconfig.json
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LInq\LABLinq\LinqLAB\bin\Debug\netcoreapp3.1\LinqLAB.runtimeconfig.dev.json
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LInq\LABLinq\LinqLAB\bin\Debug\netcoreapp3.1\LinqLAB.dll
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LInq\LABLinq\LinqLAB\bin\Debug\netcoreapp3.1\LinqLAB.pdb
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LInq\LABLinq\LinqLAB\obj\Debug\netcoreapp3.1\LinqLAB.csproj.AssemblyReference.cache
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LInq\LABLinq\LinqLAB\obj\Debug\netcoreapp3.1\LinqLAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LInq\LABLinq\LinqLAB\obj\Debug\netcoreapp3.1\LinqLAB.AssemblyInfoInputs.cache
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LInq\LABLinq\LinqLAB\obj\Debug\netcoreapp3.1\LinqLAB.AssemblyInfo.cs
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LInq\LABLinq\LinqLAB\obj\Debug\netcoreapp3.1\LinqLAB.csproj.CoreCompileInputs.cache
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LInq\LABLinq\LinqLAB\obj\Debug\netcoreapp3.1\LinqLAB.dll
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LInq\LABLinq\LinqLAB\obj\Debug\netcoreapp3.1\LinqLAB.pdb
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LInq\LABLinq\LinqLAB\obj\Debug\netcoreapp3.1\LinqLAB.genruntimeconfig.cache
